@@ -19,7 +19,7 @@ To run this notebook, you will need:
 
 ---
 
-## 📖 How to Use
+##  How to Use
 
 1.  Download the `train.csv` file from the [Kaggle competition data page](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data).
 2.  Place the `train.csv` file in the same directory as the notebook.
@@ -27,7 +27,7 @@ To run this notebook, you will need:
 
 ---
 
-## 🛠️ Feature Engineering Pipeline Summary
+##  Feature Engineering Pipeline Summary
 
 The notebook follows a systematic pipeline, with each step justified and verified:
 
@@ -56,7 +56,7 @@ The notebook follows a systematic pipeline, with each step justified and verifie
 
 ---
 
-## 📊 Final Output
+##  Final Output
 
 The notebook's final outputs are the model-ready datasets:
 
